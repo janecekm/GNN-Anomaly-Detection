@@ -8,6 +8,6 @@ All code is within [this notebook](https://github.com/janecekm/GNN-Anomaly-Detec
 ## Results
 When tested using the [Australian Defence Force Academy - Linux Dataset (ADFA-LD) dataset](https://research.unsw.edu.au/projects/adfa-ids-datasets), this method achieves: 
 
-*63.472\% accuracy
-*61.254\% precision
-*73.324\% recall
+* 63.472\% accuracy
+* 61.254\% precision
+* 73.324\% recall
